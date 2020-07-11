@@ -8,7 +8,7 @@ Oxide is a Multipurpose Fun Discord Bot which has many features like Music, Leve
 You can invite Oxide from [here](https://www.inviteoxide.gq)
 
 ### Where You Can Find Me
-I'm on [YouTube] (), [Instagram](https://instagram.com/soham_suvarna), [Twitter](https://twitter.com/SuvarnaSoham), Discord (Soham#3632). 
+I'm on [YouTube](https://www.youtube.com/channel/UCyjMVXLnrXo6cXLctCYF2ag), [Instagram](https://instagram.com/soham_suvarna), [Twitter](https://twitter.com/SuvarnaSoham), Discord (Soham#3632). 
 
 ### Support Me and My Projects!
 If any of my projects have helped you, I would very much appreciate it if you would Support Me. 
@@ -16,7 +16,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 Currently, you can only help me with gifting me Discord Nitro.
 Also for getting **Oxide Premium** you have to gift me nitro.
 
-What do you get in **Oxide Premium^^
+What do you get in **Oxide Premium**
 * Early access to new commands which are in beta state.
 * A Supporter Role in Oxide Support Server.
 
