@@ -27,3 +27,5 @@ What do you get in **Oxide Premium**
 * A Supporter Role in Oxide Support Server.
 
 Thank you for visiting my profile!
+
+![Shade](https://github-readme-stats.vercel.app/api?username=Soham-Suvarna&show_icons=true&theme=tokyonight&hide=[%22issues%22])
