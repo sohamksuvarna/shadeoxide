@@ -6,7 +6,7 @@ I know JavaScript, HTML, CSS and PHP Basics.
 ### Connect with me:
 
 [<img align="left" alt="shadeoxide.gq" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.shadeoxide.gq)
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />] (https://youtube.com/channel/UChVsh440kvsyPGuKit8vfqg)
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/channel/UChVsh440kvsyPGuKit8vfqg)
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.twitter.com/SuvarnaSoham)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/soham_suvarna)
 
