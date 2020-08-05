@@ -3,6 +3,15 @@
 I'm Soham Suvarna a.k.a. Shade, a 13 year old Student who likes Coding.
 I know JavaScript, HTML, CSS and PHP Basics.
 
+### Connect with me:
+
+[<img align="left" alt="shadeoxide.gq" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][shadeoxide.gq]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/channel/UChVsh440kvsyPGuKit8vfqg]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter.com/SuvarnaSoham]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram.com/soham_suvarna]
+
+<br />
+
 ### Projects
 #### Oxide
 Oxide is a Multipurpose Fun Discord Bot which has many features like Music, Leveling, Info, etc.
@@ -13,8 +22,6 @@ A Tracker for COVID-19 made using React.JS, Chart.js, Material UI, HTML, CSS, Ja
 A Simple Calculator made using HTML, CSS, JavaScript. You can find it [here](https://calculator.sohamarts.repl.co)
 #### Weather App
 A Simple Weather App which gives you weather of Specified Location. You can find it [here](https://weather.sohamarts.repl.co)
-### Where You Can Find Me
-I'm on [YouTube](https://www.youtube.com/channel/UCyjMVXLnrXo6cXLctCYF2ag), [Instagram](https://instagram.com/soham_suvarna), [Twitter](https://twitter.com/SuvarnaSoham), Discord (Soham#3632). 
 
 ### Support Me and My Projects!
 If any of my projects have helped you, I would very much appreciate it if you would Support Me. 
