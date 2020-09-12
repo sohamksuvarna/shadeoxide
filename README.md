@@ -22,7 +22,7 @@ It is a Simple Leveling Framework for Discord Bots
 
 ### Friends
 [@Snowflake107](https://github.com/Snowflake107)<br>
-[@ItzMeRM](https://github.com/ItzMeRM)
+[@ItzMeRM](https://github.com/ItzMeRM)<br>
 [@zyrouge](https://github.com/zyrouge)<br>
 [@abh80](https://github.com/abh80)<br>
 [@Scientific-Guy](https://github.com/Scientific-Guy)<br>
