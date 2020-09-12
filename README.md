@@ -35,4 +35,4 @@ What do you get in **Oxide Premium**
 
 Thank you for visiting my profile!
 
-<img align="left" alt="Shade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Soham-Suvarna&show_icons=true&hide_border=true" />
+<img align="left" alt="Shade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shadeoxide&show_icons=true&hide_border=true" />
