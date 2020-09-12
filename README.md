@@ -21,10 +21,10 @@ quick.xp is a npm package.
 It is a Simple Leveling Framework for Discord Bots
 
 ### Friends
-[@Snowflake107](https://github.com/Snowflake107)
-[@zyrouge](https://github.com/zyrouge)
-[@abh80](https://github.com/abh80)
-[@Scientific-Guy](https://github.com/Scientific-Guy)
+[@Snowflake107](https://github.com/Snowflake107)<br>
+[@zyrouge](https://github.com/zyrouge)<br>
+[@abh80](https://github.com/abh80)<br>
+[@Scientific-Guy](https://github.com/Scientific-Guy)<br>
 
 
 Thank you for visiting my profile!
