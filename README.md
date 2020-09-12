@@ -20,6 +20,7 @@ You can invite Oxide from [here](https://www.inviteoxide.gq)
 quick.xp is a npm package.
 It is a Simple Leveling Framework for Discord Bots
 
+
 Thank you for visiting my profile!
 
 <img align="left" alt="Shade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shadeoxide&show_icons=true&hide_border=true" />
