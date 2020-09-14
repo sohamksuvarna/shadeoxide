@@ -29,6 +29,15 @@ My very own API :)
 [@abh80](https://github.com/abh80)<br>
 [@Scientific-Guy](https://github.com/Scientific-Guy)<br>
 
+### Languages and Frameworks that I know
+NodeJS
+Typescript Basics
+HTML & CSS
+DiscordJS 
+Eris Basics
+C# Basics
+
+Am also completing a challenge named "Contribute Everyday" right now.
 
 Thank you for visiting my profile!
 
