@@ -30,12 +30,12 @@ My very own API :)
 [@Scientific-Guy](https://github.com/Scientific-Guy)<br>
 
 ### Languages and Frameworks that I know
-NodeJS
-Typescript Basics
-HTML & CSS
-DiscordJS 
-Eris Basics
-C# Basics
+NodeJS <br>
+Typescript Basics <br>
+HTML & CSS <br>
+DiscordJS <br>
+Eris Basics <br>
+C# Basics <br>
 
 Am also completing a challenge named "Contribute Everyday" right now.
 
