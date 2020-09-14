@@ -19,6 +19,8 @@ You can invite Oxide from [here](https://www.inviteoxide.gq)
 #### quick.xp
 quick.xp is a npm package.
 It is a Simple Leveling Framework for Discord Bots
+#### ShadeOxide API
+My very own API :)
 
 ### Friends
 [@Snowflake107](https://github.com/Snowflake107)<br>
