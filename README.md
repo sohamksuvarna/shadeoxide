@@ -42,4 +42,4 @@ Am also completing a challenge named "Contribute Everyday" right now.
 Thank you for visiting my profile!
 
 <img align="left" alt="Shade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shadeoxide&show_icons=true&theme=tokyonight&hide_border=true" />
-<img align="left" alt="Shade's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadeoxide&show_icons=true&theme=tokyonight&layout=compact" />
+<img align="left" alt="Shade's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadeoxide&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" />
