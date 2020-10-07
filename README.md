@@ -36,8 +36,7 @@ HTML & CSS <br>
 DiscordJS <br>
 Eris Basics <br>
 C# Basics <br>
-
-Am also completing a challenge named "Contribute Everyday" right now.
+C++ Basics <br>
 
 Thank you for visiting my profile!
 
