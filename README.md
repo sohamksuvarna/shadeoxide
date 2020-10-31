@@ -28,6 +28,7 @@ My very own API :)
 [@zyrouge](https://github.com/zyrouge)<br>
 [@abh80](https://github.com/abh80)<br>
 [@Scientific-Guy](https://github.com/Scientific-Guy)<br>
+[@thanos783](https://github.com/thanos783)<br>
 
 ### Languages and Frameworks that I know
 NodeJS <br>
