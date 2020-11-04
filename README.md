@@ -13,7 +13,7 @@ I know JavaScript, HTML, CSS and TypeScript Basics
 <br />
 
 ### Projects
-#### Oxide
+#### Oxide (NO LONGER MAINTAINED)
 Oxide is a Multipurpose Fun Discord Bot which has many features like Music, Leveling, Info, etc.
 You can invite Oxide from [here](https://www.inviteoxide.gq)
 #### quick.xp
