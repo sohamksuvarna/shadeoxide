@@ -1,7 +1,7 @@
 ### Hey There!
 
 I'm Soham Suvarna a.k.a. Shade, a 13 year old Student who likes Coding.
-I know JavaScript, HTML, CSS and PHP Basics.
+I know JavaScript, HTML, CSS and TypeScript Basics
 
 ### Connect with me:
 
