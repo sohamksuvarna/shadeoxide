@@ -18,9 +18,11 @@ Oxide is a Multipurpose Fun Discord Bot which has many features like Music, Leve
 You can invite Oxide from [here](https://www.inviteoxide.gq)
 #### quick.xp
 quick.xp is a npm package.
-It is a Simple Leveling Framework for Discord Bots
+Powerful Leveling Framework for Discord Bots
 #### ShadeOxide API
 My very own API :)
+#### Chat
+An AI-Powered Chat Bot for your Discord Server
 
 ### Friends
 [@Snowflake107](https://github.com/Snowflake107)<br>
@@ -31,13 +33,13 @@ My very own API :)
 [@thanos783](https://github.com/thanos783)<br>
 
 ### Languages and Frameworks that I know
-NodeJS <br>
-Typescript Basics <br>
-HTML & CSS <br>
-DiscordJS <br>
-Eris Basics <br>
-C# Basics <br>
-C++ Basics <br>
+- NodeJS <br>
+- Typescript Basics <br>
+- HTML & CSS <br>
+- DiscordJS <br>
+- Eris <br>
+- C# Basics <br>
+- C++ Basics <br>
 
 Thank you for visiting my profile!
 
