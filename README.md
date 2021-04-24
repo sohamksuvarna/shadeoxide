@@ -24,7 +24,7 @@ An AI-Powered Chat Bot for your Discord Server
 [@zyrouge](https://github.com/zyrouge)<br>
 [@abh80](https://github.com/abh80)<br>
 [@Scientific-Guy](https://github.com/Scientific-Guy)<br>
-[@skrx10](https://github.com/skrx10)<br>
+[@nieuve](https://github.com/nieuve)<br>
 
 ### Languages and Frameworks that I know
 - NodeJS <br>
