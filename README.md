@@ -17,7 +17,7 @@ const shade = {
         github: "github.com/shadeoxide",
         twitter: "twitter.com/shadeoxide",
         discord: "discord.gg/mKyRmPB",
-        email: "me@shadeoxide.gq"
+        email: "shade@snowflakedev.org"
     }
 }
 ```
