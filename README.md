@@ -23,7 +23,7 @@ const shade = {
 ```
 
 ## Friends
-- [@Snowflake107](https://github.com/Snowflake107)
+- [@DevAndromeda](https://github.com/DevAndromeda)
 - [@zyrouge](https://github.com/zyrouge)
 - [@ItzMeRM](https://github.com/ItzMeRM)
 - [@skrx10](https://github.com/skrx10)
