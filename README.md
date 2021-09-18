@@ -28,7 +28,7 @@ const shade = {
 - [@ItzMeRM](https://github.com/ItzMeRM)
 - [@skrx10](https://github.com/skrx10)
 - [@abh80](https://github.com/abh80)
-- [@Scientific-Guy](https://github.com/Scientific-Guy)
+- [@Scientific-Dev](https://github.com/Scientific-Dev)
 
 ## GitHub Metrics
 [![Metrics](https://metrics.lecoq.io/shadeoxide)](https://github.com/lowlighter/metrics)
