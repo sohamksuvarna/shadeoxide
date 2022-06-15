@@ -1,7 +1,7 @@
 # Hey there! 👋
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/sohamsuvarna/sohamsuvarna/master/banner-rounded.png" height="200"></img>
+    <img src="https://raw.githubusercontent.com/sohamsuvarna/sohamsuvarna/master/banner-rounded.png"></img>
 </p>
 
 I am **Soham Suvarna**, a student and also a developer. I have been coding since **August 18th, 2019**. That's when I got into making **Discord Bots**. Since then I've worked on multiple projects like **Discord Bots**, **NPM Packages**, **Websites** and **Apps**. Other than being a student and developer, I am also a pluviophile, and a nephophile.
