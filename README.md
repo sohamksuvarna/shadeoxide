@@ -9,6 +9,7 @@ I am **Soham Suvarna**, a student and also a developer. I have been coding since
 ## 🌐 Where to find me?
 [![Discord](https://img.shields.io/badge/DISCORD-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://discord.com/users/560484031838552064)
 [![Discord](https://img.shields.io/badge/TWITTER-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=FFFFFF)](https://twitter.com/soham_suvarna)
+[![E-mail](https://img.shields.io/badge/MAIL-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:soham@cesiumlabs.xyz)
 [![Website](https://img.shields.io/badge/PORTFOLIO-7289DA.svg?style=for-the-badge&logo=aboutdotme&logoColor=FFFFFF)](https://sohamsuvarna.now.sh)
 
 ## 📂 Projects
